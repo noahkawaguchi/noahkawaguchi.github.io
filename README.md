@@ -12,3 +12,5 @@ On this site, I'm documenting my process of building a full-stack web app with R
 
 [Week 4](project-posts/wk04.md)
 
+[Week 5](project-posts/wk05.md)
+
