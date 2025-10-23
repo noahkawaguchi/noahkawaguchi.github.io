@@ -2,9 +2,9 @@ Noah Kawaguchi is a computer science student focusing on backend and full-stack 
 
 ## CSPB 3112 Course Project Blog
 
-On this site, I'm documenting my process of building a full-stack web app with Rust (Axum), PostgreSQL, and TypeScript (React). Feel free to check out the [repository](https://github.com/noahkawaguchi/spur) and read through the proposal and posts below.
+On this site, I'm documenting my process of building a full-stack web app with Rust (Axum), PostgreSQL, and TypeScript (React). Feel free to check out the [repository](https://github.com/noahkawaguchi/spur) and read through the posts below.
 
-[Project Proposal](project-proposal.md)
+[Project Proposal (Week 1)](project-proposal.md)
 
 [Week 2](project-posts/wk02.md)
 
@@ -16,5 +16,6 @@ On this site, I'm documenting my process of building a full-stack web app with R
 
 [Week 6](project-posts/wk06.md)
 
-[Project Update](project-update.md)
+[Project Update (Week 7)](project-update.md)
 
+[Week 8](project-posts/wk08.md)
