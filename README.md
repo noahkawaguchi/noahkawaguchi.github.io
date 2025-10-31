@@ -19,3 +19,5 @@ On this site, I'm documenting my process of building a full-stack web app with R
 [Project Update (Week 7)](project-update.md)
 
 [Week 8](project-posts/wk08.md)
+
+[Week 9](project-posts/wk09.md)
